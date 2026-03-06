@@ -41,7 +41,13 @@ body{
 .header .usser a:hover{
     color: black;
 }
+.imagenesstefy{
+    width: auto;
+    height: auto;
+    border-radius: 11px;
+    
 
+}
 .nav{
     background-color: rgba(0, 0, 0, 0.411);
     display: flex;
